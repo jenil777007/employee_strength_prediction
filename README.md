@@ -7,11 +7,11 @@ Carried out a small prediction using JavaScript library brain.js
   3)  Brain.js 1.1.2
   
 ### Project Structure
-  |-  index.html
-  |-  js
-      |-  brain.js -> library file
-      |-  data.js -> training data file
-      |-  main.js -> main javascript file
+  |-  index.html<br/>
+  |-  js<br/>
+> |-  brain.js -> library file<br/>
+      |-  data.js -> training data file<br/>
+      |-  main.js -> main javascript file<br/>
       
 ### Installation
   1)  Clone the repo
