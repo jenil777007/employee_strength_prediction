@@ -9,9 +9,9 @@ Carried out a small prediction using JavaScript library brain.js
 ### Project Structure
   |-  index.html<br/>
   |-  js<br/>
-> |-  brain.js -> library file<br/>
-      |-  data.js -> training data file<br/>
-      |-  main.js -> main javascript file<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|-  brain.js -> library file<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|-  data.js -> training data file<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|-  main.js -> main javascript file<br/>
       
 ### Installation
   1)  Clone the repo
